@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Ko1103/redis-nodejs-sample/issues"
   },
-  "homepage": "https://github.com/Ko1103/redis-nodejs-sample#readme"
+  "homepage": "https://github.com/Ko1103/redis-nodejs-sample#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "ioredis": "^5.2.3",
+    "ws": "^8.8.1"
+  }
 }
